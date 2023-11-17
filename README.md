@@ -37,6 +37,10 @@ Dans un terminal, après avoir sourcé ros2 et s'etre mis dans le workspace, il 
 Dans le premier terminal on peut voir ce qu'il y a comme information envoyée par l'ESP32 sur le serial.  
 Dans le second terminal on peut voir les commandes exécutées en fonction des informations reçue par le topic *serial_data* (on souscrit a ce topic).
 
+Voici le résultat dans les terminaux lorsque l'on lance les noeuds : 
+
+![plot](images/terminal_ros.png)  
+
 ## Architecture 
 
 Voici l'architecture (hardware) de notre système : 
