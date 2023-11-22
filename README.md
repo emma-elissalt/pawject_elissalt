@@ -48,4 +48,5 @@ Voici l'architecture (hardware) de notre système :
 
 ## Vidéo explicative 
 
-Voici une vidéo de démonstration pour notre prototype : 
+Voici une vidéo de démonstration pour notre prototype : https://youtu.be/jBiW0mczfOc?feature=shared
+
