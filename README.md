@@ -50,3 +50,14 @@ Voici l'architecture (hardware) de notre système :
 
 Voici une vidéo de démonstration pour notre prototype : https://youtu.be/jBiW0mczfOc?feature=shared
 
+
+## Poster / PowerPoint
+
+Dans le dossier poster/powerpoint vous pouvez trouver un poster et une présentation powerpoint explicative de notre projet. 
+
+## Conclusion 
+Ce projet nous a permis de mettre en ouevre un prototype répondant à une problématique. Nous avons pu lors de la réalisation de ce prototype mettre en pratique énormément de compétences vu tout au long de nos études. Que ça soit du bas ou du haut niveau dans l'architecture, comme avec la maîtrise des servo moteurs Dynamixal sous ROS2, la communication en BLE entre une application mobile et une carte ESP32, ou alors plus simplement l'utilsation de capteurs de distance.   
+C'etait vraiment interresant d'être libre dans le sujet et quasiment en autonomie pour sa réalisation. 
+
+👍
+
